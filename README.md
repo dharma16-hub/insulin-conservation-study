@@ -66,3 +66,20 @@ Insulin is highly conserved across vertebrates, particularly among mammals. The 
 Dharmarajan Selvaraj
 
 MSc Bioinformatics, REVA University
+
+
+
+
+
+## Future Work
+
+This project focused on insulin sequence conservation across vertebrate species.
+
+Future extensions could include:
+
+* Construction of phylogenetic trees
+* Structural comparison of insulin proteins
+* Analysis of disease-associated insulin mutations
+* Investigation of insulin receptor conservation
+* Comparative analysis of other metabolic hormones
+
