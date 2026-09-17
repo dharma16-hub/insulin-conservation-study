@@ -70,6 +70,23 @@ MSc Bioinformatics, REVA University
 
 
 
+## Repository Structure
+
+data/
+- Raw insulin FASTA sequences
+
+results/
+- Multiple sequence alignment
+- Pairwise alignment results
+
+figures/
+- Alignment screenshots
+
+docs/
+- Project report
+
+
+
 
 ## Future Work
 
